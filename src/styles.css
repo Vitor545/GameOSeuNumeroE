@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.App {
+  overflow-x: hidden;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #101010;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.button {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+  margin: 5px;
+  padding: 20px;
+}
+
+.menor {
+  color: #101010;
+  background: linear-gradient(
+    226.68deg,
+    #7088f1 12.77%,
+    rgba(41, 65, 171, 0) 128.28%
+  );
+}
+
+.acertou {
+  color: #101010;
+  background: linear-gradient(
+    226.68deg,
+    #5eb199 12.77%,
+    rgba(41, 65, 171, 0) 128.28%
+  );
+}
+
+.maior {
+  color: #101010;
+  background: linear-gradient(
+    226.68deg,
+    #f7b458 12.77%,
+    rgba(41, 65, 171, 0) 128.28%
+  );
+}
+
+.maior:hover {
+  color: white;
+  background: linear-gradient(
+    226.68deg,
+    #ce7e0f 12.77%,
+    rgba(41, 65, 171, 0) 128.28%
+  );
+}
+
+.acertou:hover {
+  color: white;
+  background: linear-gradient(
+    226.68deg,
+    #009b6f 12.77%,
+    rgba(41, 65, 171, 0) 128.28%
+  );
+}
+
+.menor:hover {
+  color: white;
+  background: linear-gradient(
+    226.68deg,
+    #1f46f3 12.77%,
+    rgba(41, 65, 171, 0) 128.28%
+  );
+}
+
+.paragrafo {
+  color: honeydew;
+  font-size: 36px;
+  padding-bottom: 36px;
+}
+
+.paragrafo2 {
+  color: honeydew;
+  font-size: 14px;
+  padding-bottom: 36px;
+}
+
+.numero {
+  font-size: 200px;
+  padding: 48px;
+  color: rgb(255, 255, 255);
+}
+
+.inicia {
+  color: #101010;
+  background-color: white;
+}
+
+.logo {
+  padding: 10px;
+  width: 72px;
+}
+
+.logoshare {
+  padding: 10px;
+  width: 96px;
+}
