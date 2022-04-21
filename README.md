@@ -41,7 +41,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h3 align='center'> 💿 Rodando na sua máquina</h3>
+<h3 align='center'> 💿 Clonando na sua máquina</h3>
 
 
 ## ⬇️ Instalações necessárias
@@ -49,26 +49,21 @@
 - Para executar com sucesso o projeto é necessário instalar o GIT:
 [GIT](https://git-scm.com/downloads)
 
-- Para executar com sucesso o projeto é necessário instalar o Node.js:
-[Node.js](https://nodejs.org/en/download/)
-
 <br/>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## ▶️ Executar a aplicação
+## ▶️ Clonando a aplicação
 
-**Para executar a aplicação em sua máquina local basta escolher uma pasta no seu computador e seguir os seguintes comandos no terminal do seu computador.**
+**Para você pode clonar a aplicação usando as linhas de comando abaixo.**
 
 📋 Copie as linhas de código e cole no terminal.
 
 ```bash
 git clone git@github.com:Vitor545/GameOSeuNumeroE.git
 cd GameOSeuNumeroE
-npm i
-npm start 
 ```
 
 <br/>
