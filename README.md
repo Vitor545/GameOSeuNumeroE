@@ -21,7 +21,6 @@
   <img src='https://img.shields.io/badge/GitHub-purple?style=for-the-badge' />
   <img src='https://img.shields.io/badge/css-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/sass-pink?style=for-the-badge' />
 </p>
 
 <br/>
