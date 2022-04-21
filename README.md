@@ -57,7 +57,7 @@
 
 ## ▶️ Clonando a aplicação
 
-**Para você pode clonar a aplicação usando as linhas de comando abaixo.**
+**Você pode clonar a aplicação usando as linhas de comando abaixo.**
 
 📋 Copie as linhas de código e cole no terminal.
 
