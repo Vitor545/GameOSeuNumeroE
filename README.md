@@ -8,6 +8,10 @@
 
 <br/>
 
+<img width=100% src="ezgif.com-gif-maker (2).gif"></img>
+
+<br/>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -23,9 +27,7 @@
   <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
 </p>
 
-<br/>
-<img width=100% src="ezgif.com-gif-maker (2).gif"></img>
- 
+
 <br/>
 
 
