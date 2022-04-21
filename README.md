@@ -1,6 +1,6 @@
 ## Projeto GameOSeuNumeroE
  
-<h3 align='center'> Seu número é? </h3>
+<h3 align='center'> 🔢 Seu número é? </h3>
 
 ## 📄 Contexto
 
